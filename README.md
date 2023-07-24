@@ -1,7 +1,7 @@
 ![logo](https://github.com/SiddheshDeshmukh2212/SiddheshDeshmukh2212/blob/main/banner.jpg)
 <h1 align="center">Hi , I'm Siddhesh Deshmukh</h1>
 <h3 align="center">AI/ML Enthusiast. Btech.CSE student</h3>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshdeshmukh2212&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshdeshmukh2212" /> </p>
 
