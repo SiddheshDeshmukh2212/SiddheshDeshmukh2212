@@ -20,7 +20,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 
 #### :computer: Programming languages and tools: 
 <p>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave&preferLogin=false">    <img align="right" height="200" width="200" alt="SiddheshDeshmukh2212's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SiddheshDeshmukh2212?cardType=octocat&theme=synthwave&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave&preferLogin=false">    <img align="right" height="550" width="450" alt="SiddheshDeshmukh2212's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SiddheshDeshmukh2212?cardType=octocat&theme=synthwave&preferLogin=false" />  </a>
 <code><img width="10%" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
