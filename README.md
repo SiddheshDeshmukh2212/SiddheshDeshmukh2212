@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is Siddhesh Deshmukh!
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SiddheshDeshmukh2212)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/siddhesh-deshmukh-22d1202)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siddheshdeshmukh2002@gmail.com)
@@ -20,8 +20,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=synthwave&show_icons=true)
 <code><img width="10%" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
