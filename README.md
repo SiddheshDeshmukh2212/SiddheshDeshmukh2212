@@ -3,9 +3,6 @@
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshdeshmukh2212&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshdeshmukh2212" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshdeshmukh2212"  alt="siddheshdeshmukh2212" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently studing **Computer Science Engineering**
@@ -17,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhesh deshmukhsiddhesh deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh deshmukhsiddhesh deshmukh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/siddheshdeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddheshdeshmukh" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
