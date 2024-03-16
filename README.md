@@ -11,7 +11,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 
 #### 💙 Things I love: 
 - Artificial Intelligence  
-- Competetive Programming
+- Competitive Programming
 
 #### :muscle: Things I am challenging myself with:
 - Developing AI
