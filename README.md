@@ -12,7 +12,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 #### 💙 Things I love: 
 - Artificial Intelligence  
 - Competetive Programming
-- 
+
 #### :muscle: Things I am challenging myself with:
 - Developing AI
 - Pomodoro atleast 8 times a day
@@ -30,11 +30,10 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<code><img width="10%" src="https://en.wikipedia.org/wiki/SpaCy#/media/File:SpaCy_logo.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg"></code>
-<code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <br />
 <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
 <code><img width="10%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg"></code>
