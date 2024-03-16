@@ -20,7 +20,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="(https://github-readme-stats.vercel.app/api?username=SiddheshDeshmukh2212&theme=synthwave&show_icons=true" />
+	<img width="50%" align="right" src="(https://github-readme-stats.vercel.app/api?username=SiddheshDeshmukh2212&theme=dark&show_icons=true" />
 	
 <code><img width="10%" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
