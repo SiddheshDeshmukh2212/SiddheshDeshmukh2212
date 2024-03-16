@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Siddhesh and I am currently finishing my Computer Engineering Bachelors degree!  
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img align="right" alt="coding" width="500" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 
 #### 💙 Things I love: 
