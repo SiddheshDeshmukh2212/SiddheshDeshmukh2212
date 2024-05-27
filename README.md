@@ -17,9 +17,11 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 - Developing AI
 - Pomodoro atleast 8 times a day
 - Exercising
- 
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
 #### :computer: Programming languages and tools: 
 <p>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave&preferLogin=false">    <img align="right" width="350" alt="SiddheshDeshmukh2212's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SiddheshDeshmukh2212?cardType=octocat&theme=synthwave&preferLogin=false" />  </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
+
