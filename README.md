@@ -21,6 +21,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 #### :computer: Programming languages and tools: 
 <p>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave&preferLogin=false">    <img align="right" width="350" alt="SiddheshDeshmukh2212's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SiddheshDeshmukh2212?cardType=octocat&theme=synthwave&preferLogin=false" />  </a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 <code><img width="10%" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
