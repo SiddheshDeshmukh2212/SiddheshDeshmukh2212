@@ -19,7 +19,7 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 - Exercising
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align=left&width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align=right)](https://github.com/anuraghazra/github-readme-stats)
  
 #### :computer: Programming languages and tools: 
 <p>
