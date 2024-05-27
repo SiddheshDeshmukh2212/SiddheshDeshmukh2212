@@ -17,9 +17,6 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 - Developing AI
 - Pomodoro atleast 8 times a day
 - Exercising
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
  
 #### :computer: Programming languages and tools: 
 <p>
@@ -42,3 +39,5 @@ Welcome to my Github page! I am Siddhesh and I am currently finishing my Compute
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshDeshmukh2212&theme=synthwave&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
